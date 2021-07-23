@@ -1,10 +1,16 @@
 .product-item img{
     width: 100px;
 }
-.btn-buy-now {
-    background-color: #ff4b92);
+.btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
     color: white;
     border-radius: 8px;
     padding: 9px 25px;
     border: none;
+}
+.panda-bg-info {
+    background-color: #fceae8;
+}
+.carousel-item-headphone{
+    background-color: #fceae8;
 }
